@@ -172,12 +172,3 @@ jupyter notebook "handwritting-ocr2 (3).ipynb"
 
 ---
 
-## 👥 Kontributor
-
-- **Muhammad Raiyan Sani** - *Model Development & Research*
-- Terbuka untuk kontribusi melalui *Pull Request* dan pelaporan *Issue*.
-
----
-
-## 📄 Lisensi
-Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
